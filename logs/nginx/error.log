@@ -1,0 +1,1 @@
+2026/05/08 15:19:29 [error] 64974#0: *651 directory index of "/Users/ljacq/Local Sites/chic-dressing/app/public/wp-content/cache/" is forbidden, client: ::1, server: , request: "GET /wp-content/cache/ HTTP/1.1", host: "localhost:10018"
